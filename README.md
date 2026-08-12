@@ -1,4 +1,4 @@
-# opencode-desktop-bidi-fix
+# opencode-desktop-arabic-rtl-fix
 
 Fixes Arabic/English mixed-text direction (RTL/LTR) in the **OpenCode desktop app**:
 
@@ -11,14 +11,14 @@ No source changes, no rebuilds. It patches one CSS file inside the app's `app.as
 ## Quick install
 
 ```bash
-bash <(curl -s https://raw.githubusercontent.com/touficmamdouh/opencode-desktop-bidi-fix/main/bidi-fix.sh)
+bash <(curl -s https://raw.githubusercontent.com/touficmamdouh/opencode-desktop-arabic-rtl-fix/main/bidi-fix.sh)
 ```
 
 Or clone and run:
 
 ```bash
-git clone https://github.com/touficmamdouh/opencode-desktop-bidi-fix.git
-cd opencode-desktop-bidi-fix
+git clone https://github.com/touficmamdouh/opencode-desktop-arabic-rtl-fix.git
+cd opencode-desktop-arabic-rtl-fix
 ./bidi-fix.sh
 ```
 
